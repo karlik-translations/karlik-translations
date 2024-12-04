@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Leszek Karlik Translations</title>
-    <link href="https://karlik-translations.github.io/karlik-translations/feed.xml" rel="self" />
-    <link href="https://karlik-translations.github.io/karlik-translations" />
+    <link href="https://karlik-translations.eu/feed.xml" rel="self" />
+    <link href="https://karlik-translations.eu" />
     <updated>2024-12-04T00:27:15+01:00</updated>
     <author>
         <name>Leszek Karlik</name>
     </author>
-    <id>https://karlik-translations.github.io/karlik-translations</id>
+    <id>https://karlik-translations.eu</id>
 
     <entry>
         <title>PL</title>
         <author>
             <name>Leszek Karlik</name>
         </author>
-        <link href="https://karlik-translations.github.io/karlik-translations/doswiadczenie.html"/>
-        <id>https://karlik-translations.github.io/karlik-translations/doswiadczenie.html</id>
+        <link href="https://karlik-translations.eu/doswiadczenie.html"/>
+        <id>https://karlik-translations.eu/doswiadczenie.html</id>
 
         <updated>2024-12-04T00:24:07+01:00</updated>
             <summary>
@@ -68,8 +68,8 @@
         <author>
             <name>Leszek Karlik</name>
         </author>
-        <link href="https://karlik-translations.github.io/karlik-translations/leszek-karlik-translations.html"/>
-        <id>https://karlik-translations.github.io/karlik-translations/leszek-karlik-translations.html</id>
+        <link href="https://karlik-translations.eu/leszek-karlik-translations.html"/>
+        <id>https://karlik-translations.eu/leszek-karlik-translations.html</id>
 
         <updated>2024-12-04T00:21:43+01:00</updated>
             <summary>

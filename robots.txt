@@ -4,4 +4,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://karlik-translations.github.io/karlik-translations/sitemap.xml
+Sitemap: https://karlik-translations.eu/sitemap.xml
